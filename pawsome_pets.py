@@ -3,7 +3,7 @@ import pandas as pd
 
 # Connects to an existing database file in the current directory
 # If the file does not exist, it creates it in the current directory
-db_connect = sqlite3.connect('pawsomePets.db')
+db_connect = sqlite3.connect('pawsome_pets.db')
 # Instantiate cursor object for executing queries
 cursor = db_connect.cursor()
 
