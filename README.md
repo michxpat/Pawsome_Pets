@@ -1,6 +1,6 @@
 # Pawsome_Pets
 This is the final project for CSC423 with professor Vanessa Aguiar. We were tasked to work in pairs in the Design, development and implementation of a relational
-database.
+database. I worked with Madeline Bluestone on this project.
 
 # Case Study: Pawsome Pets
 
